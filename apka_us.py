@@ -8,7 +8,7 @@ import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 
 # ---------------------------------------------- PANDAS DATAFRAME
-name = st.text_input('Type stock ticker', 'IZOSTAL')
+name = st.text_input('Type stock ticker', 'KO')
 
 summary = openbb.stocks.fa.key(name)
 
