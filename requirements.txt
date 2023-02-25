@@ -1,2 +1,2 @@
 matplotlib
-openbb_terminal
+openbb
