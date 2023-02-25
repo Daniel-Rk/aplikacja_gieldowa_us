@@ -1,1 +1,2 @@
 matplotlib
+openbb_terminal.sdk
